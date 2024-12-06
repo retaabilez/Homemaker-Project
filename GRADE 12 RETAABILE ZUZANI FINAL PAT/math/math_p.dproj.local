@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/09 07:56:33.000.450,=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/09 08:40:19.000.416,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\math\Math_u.dfm=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/03/09 08:40:19.000.416,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\math\Math_u.pas=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/09 08:41:00.000.988,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\math\math_p.dproj=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

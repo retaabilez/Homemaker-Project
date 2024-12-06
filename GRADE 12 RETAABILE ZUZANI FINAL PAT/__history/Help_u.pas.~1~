@@ -1,0 +1,51 @@
+unit Help_u;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.OleCtrls, SHDocVw, Vcl.StdCtrls,
+  Vcl.ComCtrls;
+
+type
+  TfrmHelp = class(TForm)
+    btnLoadHelp: TButton;
+    redHelp: TRichEdit;
+    procedure btnLoadHelpClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmHelp: TfrmHelp;
+
+implementation
+
+{$R *.dfm}
+
+procedure TfrmHelp.btnLoadHelpClick(Sender: TObject);
+var tHelp: Textfile;
+    sLine: string;
+begin
+ Assignfile(tHelp,'Help.txt');
+
+ if fileexists('Help.txt') = false then
+ begin
+  Rewrite(tHelp);
+ end
+ else
+ begin
+  Reset(tHelp);
+ end;
+
+ while NOT eof(tHelp) do
+  begin
+    Readln(tHelp, sLine);
+    redHelp.Lines.Add(sLine);
+  end;
+  closefile(tHelp);
+end;
+
+end.

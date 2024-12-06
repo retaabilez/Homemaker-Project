@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/07/10 16:38:36.000.125,=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/10 16:42:08.000.438,=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/07/10 16:43:15.000.372,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Login_u.pas</Transaction>
+    <Transaction>2024/07/10 16:43:15.000.372,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Login_u.dfm</Transaction>
+    <Transaction>2024/07/10 16:43:27.000.844,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Opening_u.dfm</Transaction>
+    <Transaction>2024/07/10 16:43:27.000.844,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Opening_u.pas</Transaction>
+    <Transaction>2024/07/10 16:43:42.000.077,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Homemaker_p.dproj</Transaction>
+    <Transaction>2024/07/10 16:46:18.000.569,=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/10 16:47:46.000.841,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\SignUp_u.pas</Transaction>
+    <Transaction>2024/07/10 16:47:46.000.841,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\SignUp_u.dfm</Transaction>
+    <Transaction>2024/07/10 18:48:01.000.946,=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/10 18:48:20.000.687,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Home_u.pas</Transaction>
+    <Transaction>2024/07/10 18:48:20.000.687,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Home_u.dfm</Transaction>
+    <Transaction>2024/07/10 18:48:57.000.329,=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/10 18:49:12.000.980,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Help_u.pas</Transaction>
+    <Transaction>2024/07/10 18:49:12.000.980,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Help_u.dfm</Transaction>
+    <Transaction>2024/07/10 18:50:13.000.241,=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/10 18:50:48.000.777,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Upload_u.pas</Transaction>
+    <Transaction>2024/07/10 18:50:48.000.777,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Upload_u.dfm</Transaction>
+    <Transaction>2024/07/15 20:39:47.000.381,=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/15 20:41:11.000.098,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\dmHomemaker_u.pas=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/15 20:41:11.000.098,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\dmHomemaker_u.dfm=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/08/11 20:33:49.000.656,=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/11 20:35:18.000.574,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Profile_u.pas</Transaction>
+    <Transaction>2024/08/11 20:35:18.000.574,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Profile_u.dfm</Transaction>
+    <Transaction>2024/08/11 22:19:29.000.967,=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/11 22:20:11.000.483,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\MyProperty_u.dfm=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/08/11 22:20:11.000.483,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\MyProperty_u.pas=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/12 07:25:43.000.844,=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/12 07:26:31.000.366,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\dmProperty_u.pas</Transaction>
+    <Transaction>2024/08/12 07:26:31.000.366,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\dmProperty_u.dfm</Transaction>
+    <Transaction>2024/08/12 19:10:54.000.099,=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/12 19:12:53.000.907,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\clsAgents_u.pas</Transaction>
+    <Transaction>2024/08/12 23:21:07.000.405,=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/12 23:21:23.000.652,C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\clsCommissions_u.pas=C:\Users\Retaabile Zuzani\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="dmHomemaker_u.pas"/>
+    <File Path="dmHomemaker_u.dfm"/>
+    <File Path="Help_u.pas"/>
+    <File Path="Help_u.dfm"/>
+    <File Path="Home_u.pas"/>
+    <File Path="Home_u.dfm"/>
+    <File Path="Login_u.pas"/>
+    <File Path="Login_u.dfm"/>
+    <File Path="Opening_u.pas"/>
+    <File Path="Opening_u.dfm"/>
+    <File Path="SignUp_u.pas"/>
+    <File Path="SignUp_u.dfm"/>
+    <File Path="Upload_u.pas"/>
+    <File Path="Upload_u.dfm"/>
+    <File Path="Profile_u.pas"/>
+    <File Path="Profile_u.dfm"/>
+    <File Path="MyProperty_u.pas"/>
+    <File Path="MyProperty_u.dfm"/>
+    <File Path="dmProperty_u.pas"/>
+    <File Path="dmProperty_u.dfm"/>
+    <File Path="clsAgents_u.pas"/>
+    <File Path="clsCommissions_u.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
